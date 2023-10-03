@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2446" moduleid="9837" modulename="page" contextid="64983">
+  <page id="2446">
+    <name>Introduce learners to The Moth podcast</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Introduce your adult learners to
+the &lt;a href="https://themoth.org/stories?gclid=CjwKCAiA2rOeBhAsEiwA2Pl7QwG6ha3uhMRpRRt9lBJC-n0rMHE17J0i9p-P0c0s_1FKNOTUqjMqExoCuUgQAvD_BwE" target="_blank"&gt;The
+Moth&lt;/a&gt; podcast.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;To practice oral communication,
+have learners find and listen to a story from The Moth that interests
+them.&amp;nbsp; After listening to the story, have them form pairs and summarize
+the story verbally to one another.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Afterward, introduce the concept
+of having oral story telling. Consider having learners craft their own story.
+It could focus on a single life event, their journey with literacy, education,
+their families,&amp;nbsp;etc. The goal is to have learners express their story
+through the spoken&amp;nbsp;word in a way that feels authentic and inspiring to
+them.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;img src="@@PLUGINFILE@@/thumbnail-themoth.png" alt="" width="313" height="163" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;“The
+Moth is a nonprofit organization that celebrates the commonality and diversity
+of human experience through the art and craft of true, personal storytelling.” –
+The Moth website&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Go back to the&amp;nbsp;&lt;a href="$@COURSEVIEWBYID*293@$#section-5" target="_blank"&gt;Try It Yourself Section&lt;/a&gt;&amp;nbsp;for a list of all Try it Yourself Options.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>6</revision>
+    <timemodified>1690060501</timemodified>
+  </page>
+</activity>

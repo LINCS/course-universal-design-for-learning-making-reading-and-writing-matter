@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2449" moduleid="9840" modulename="page" contextid="64986">
+  <page id="2449">
+    <name>Free technology applications for literacy skills</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Many times, learners don't know
+what tools are available to help improve literacy skills. Share these resources
+with your students and ask them to make a "pros" and "cons"
+list for each technology. Use this&amp;nbsp;activity to build literacy skills, by
+asking learners to orally communicate their list with their peers or with the
+class.&amp;nbsp;&lt;/p&gt;
+
+&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://chrome.google.com/webstore/detail/readwrite-for-google-chro/inoeonmfapjbbkmdafoankkfajkcphgd?hl=en-US" target="_blank"&gt;Google
+Read &amp;amp; Write &lt;/a&gt;— Students can access a range of
+powerful support tools to help gain confidence with reading, writing, studying,
+and research, including: &lt;br&gt;Text-to-speech
+to hear words, passages, or whole documents read aloud with easy-to-follow dual
+color highlightingText
+and picture dictionaries to see the meaning of words explained&lt;/li&gt;&lt;li&gt;&lt;span style="background-color: rgb(255, 255, 255); font-size: 1.7rem;"&gt;&lt;a href="https://info.flip.com/" target="_blank"&gt;Flip&amp;nbsp;&lt;/a&gt;&lt;/span&gt;&lt;span style="font-size: 1.7rem;"&gt;—&amp;nbsp;Students
+record themselves speaking into the camera. They can then record a video
+response or leave a written comment for other videos they view.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="background-color: rgb(255, 255, 255); font-size: 1.7rem;"&gt;&lt;a href="https://l-www.voki.com/" target="_blank"&gt;Voki&amp;nbsp;&lt;/a&gt;&lt;/span&gt;&lt;span style="font-size: 1.7rem;"&gt;—&amp;nbsp;Students
+select a character and can speak to record their voice or type a response and
+select a character to read it for them.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="background-color: rgb(255, 255, 255); font-size: 1.7rem;"&gt;&lt;a href="https://www.google.com/docs/about/" target="_blank"&gt;Google Docs &lt;/a&gt;&lt;/span&gt;&lt;span style="font-size: 1.7rem;"&gt;&amp;amp;
+&lt;/span&gt;&lt;span style="background-color: rgb(255, 255, 255); font-size: 1.7rem;"&gt;&lt;a href="https://www.google.com/slides/about/" target="_blank"&gt;Slides&amp;nbsp;&lt;/a&gt;&lt;/span&gt;&lt;span style="font-size: 1.7rem;"&gt;—&amp;nbsp;Students
+can collaborate on a writing activity in real-time or provide one another
+feedback using the comment feature.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p&gt;Go back to the&amp;nbsp;&lt;a href="$@COURSEVIEWBYID*293@$#section-5" target="_blank"&gt;Try It Yourself Section&lt;/a&gt;&amp;nbsp;for a list of all Try it Yourself Options.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>4</revision>
+    <timemodified>1690060788</timemodified>
+  </page>
+</activity>

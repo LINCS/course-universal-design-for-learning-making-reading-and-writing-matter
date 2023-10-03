@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2426" moduleid="9817" modulename="page" contextid="64963">
+  <page id="2426">
+    <name>Step 2: Research &amp; Organize </name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;After prewriting, you can offer students more structured supports to get their ideas on paper by providing a graphic organizer or clear prompts/sentence starters such as:&lt;/p&gt;
+
+&lt;div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Identify a person's story (movie or book) that you admire. Why do you like it?&lt;/li&gt;
+        &lt;li&gt;What could someone learn from your story?&amp;nbsp;&lt;/li&gt;
+        &lt;li&gt;What feeling do you want to evoke in your readers?&lt;/li&gt;
+        &lt;li&gt;What feelings are you trying to express for yourself?&lt;/li&gt;
+        &lt;li&gt;Is there a theme to your story?&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-resources%20%281%29.png" alt="" width="65" height="63" role="presentation" class="img-responsive atto_image_button_middle"&gt;Additional Resource:&lt;/strong&gt;    &lt;a href="http://doc.renlearn.com/KMNet/R004250923GJCF33.pdf" target="_blank"&gt;Effective Writing
+Instruction for All Students&lt;/a&gt;&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>3</revision>
+    <timemodified>1690059508</timemodified>
+  </page>
+</activity>

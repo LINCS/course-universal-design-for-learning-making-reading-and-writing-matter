@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2408" moduleid="9799" modulename="page" contextid="64945">
+  <page id="2408">
+    <name>Key Idea: Find reading topics that connect to adults' lives. </name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-keyideasforward.png" alt="" width="140" height="136" role="presentation" class="img-responsive atto_image_button_middle"&gt;&lt;/p&gt;&lt;p&gt;Unlike children, adults do not
+have time to spend several hours a day learning to read. In fact, many adults
+will struggle to attend class at all. Educators can increase the likelihood
+that adults will persist with reading when the content is information they can
+use or care about. Reminding adults that they are probably already engaged in
+reading basic material like&amp;nbsp;recipes, signs, texts, or bills is a great
+place to start &lt;a href="$@PAGEVIEWBYID*9829@$" target="_blank"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;(&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Sabatini et al., 2011)&lt;/span&gt;&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>2</revision>
+    <timemodified>1689803809</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2424" moduleid="9815" modulename="page" contextid="64961">
+  <page id="2424">
+    <name>5 Basic Steps to Support the Writing Process </name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;These 5 steps can be applied to
+any writing topic. Here, we are focusing on how to apply them to help your
+learners write their own story. You can create a handout or post the steps in
+your classroom or online platform for learners to reference.&amp;nbsp;&lt;/p&gt;
+
+&lt;div&gt;&lt;ol&gt;&lt;li&gt;Prewriting&lt;/li&gt;&lt;li&gt;Researching
+&amp;amp; Organizing&lt;/li&gt;&lt;li&gt;Drafting&lt;/li&gt;&lt;li&gt;Revising&lt;/li&gt;&lt;li&gt;Editing
+and Proofreading&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+&lt;p&gt;At each step, provide ways to share
+writing, obtain input, and share mastery feedback. &lt;/p&gt;
+
+&lt;p&gt;&lt;a&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-protips.png" alt="" width="65" height="63" role="presentation" class="img-responsive atto_image_button_middle"&gt;Pro Tip:&lt;/strong&gt; &lt;/a&gt;&lt;a href="$@PAGEVIEWBYID*9826@$" target="_blank"&gt;Use
+prompts or sentence-starters.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>4</revision>
+    <timemodified>1690059480</timemodified>
+  </page>
+</activity>

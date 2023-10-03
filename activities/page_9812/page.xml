@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2421" moduleid="9812" modulename="page" contextid="64958">
+  <page id="2421">
+    <name>Share Editing Strategies with Learners </name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Many new writers do not
+understand that editing is a process. They will need help understanding that
+editing is part of the writing process. You can encourage learners to become
+active editors by asking them to:&amp;nbsp;&lt;/p&gt;
+
+&lt;div&gt;&lt;ul&gt;&lt;li&gt;Re-read the paragraph or sentence
+they are writing (silently or out loud)&lt;/li&gt;&lt;li&gt;Make sure they understand the
+meaning of each word&amp;nbsp;they have included&amp;nbsp;&lt;/li&gt;&lt;li&gt;Find more information on the
+topic they are writing about (ask someone for help, find references, search
+online)&amp;nbsp;&lt;/li&gt;&lt;li&gt;Ask someone else to read a
+section&amp;nbsp;&lt;/li&gt;&lt;li&gt;Use headings in the text to help
+orient and provide clarification&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-resources%20%281%29.png" alt="" width="65" height="63" role="presentation" class="img-responsive atto_image_button_middle"&gt;Additional Resource:&lt;/strong&gt;&amp;nbsp;&lt;u&gt;&lt;a href="https://iris.peabody.vanderbilt.edu/module/sec-rdng/cresource/q3/p10/" target="_blank"&gt;IRIS
+Center, Monitoring Comprehension&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>2</revision>
+    <timemodified>1690059178</timemodified>
+  </page>
+</activity>

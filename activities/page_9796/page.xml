@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2405" moduleid="9796" modulename="page" contextid="64942">
+  <page id="2405">
+    <name>Digital Literacy </name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Many U.S. adults still lack basic Digital Literacy skills. Digital Literacy skills include
+digital creation, data representation, online communication, and source
+evaluation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Digital Literacy includes&lt;/strong&gt; &lt;a href="$@PAGEVIEWBYID*9829@$" target="_blank"&gt;(Digital Coalition, 2020)&lt;/a&gt;&lt;strong&gt;:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Photovisual
+literacy&lt;/strong&gt;&amp;nbsp;and&amp;nbsp;Reproduction literacy&amp;nbsp;skills
+aid in understanding digital graphic design and interfaces and the ability to
+create multimedia works.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Branching literacy&amp;nbsp;&lt;/strong&gt;refers
+to the navigation skills one needs when exploring the internet. These skills
+are particularly important when interacting with hyperlinked texts.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Social Media literacy&lt;/strong&gt;
+skills help develop a presence on social media,&amp;nbsp;engage in social media
+communities, and think critically about the messages and data shared on social
+media.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-tryityourself.png" alt="" width="65" height="63" role="presentation" class="img-responsive atto_image_button_middle"&gt;Try it Yourself: &lt;/strong&gt;&lt;a href="$@PAGEVIEWBYID*9836@$" target="_blank"&gt;Use
+this digital media lesson&amp;nbsp;plan&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-resources%20%281%29.png" alt="" width="65" height="63" role="presentation" class="img-responsive atto_image_button_middle"&gt;Additional Resource:&lt;/strong&gt;
+&lt;u&gt;&lt;a href="https://lvp.digitalpromiseglobal.org/content-area/adult-learner/factors/digital-literacy-adult-learner/summary" target="_blank"&gt;Digital
+Literacy, Digital Promise&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>6</revision>
+    <timemodified>1689803573</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2398" moduleid="9789" modulename="page" contextid="64935">
+  <page id="2398">
+    <name>Percent of Low English Literacy Adults (table format)</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;&lt;span style="font-size: 1.7rem;"&gt;Offering people multiple ways to
+perceive&amp;nbsp;new information helps to improve learning. Here, you see data
+displayed in a table format. Next, you will see the same information in a list
+format.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th scope="col" style="text-align: center;"&gt;Ethnicity&lt;/th&gt;&lt;th scope="col"&gt;&lt;p style="text-align: center;"&gt;Percent Born in the United States&lt;/p&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;p style="text-align: center;"&gt;Percent Born Outside of the United
+States&lt;/p&gt;&lt;/th&gt;
+&lt;th scope="col"&gt;&lt;p style="text-align: center;"&gt;Total Percentage of Subgroup&lt;/p&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p style="text-align: center;"&gt;White&lt;/p&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;33%&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;2%&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;35%&lt;br&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p style="text-align: center;"&gt;Black&lt;/p&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;20%&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;3%&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;23%&lt;br&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;Hispanic&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;10%&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;24%&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;34%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;Other&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;3%&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;4%&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;8%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;span style="font-size: 1.7rem;"&gt;(Details may not sum to totals due to rounding.)&lt;/span&gt;&lt;p&gt;&lt;u&gt;&lt;/u&gt;Source:&amp;nbsp;&amp;nbsp;&lt;a href="$@PAGEVIEWBYID*9829@$" target="_blank"&gt;Mamedova, S., &amp;amp; Pawlowski, E., National Center for Education Statistics, Adult Literacy in the United States (2019)&amp;nbsp;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;img src="https://lincs-moodle-dev.civicactions.net/pluginfile.php/7273/mod_page/content/4/octae-icon-resources%20%282%29.png" alt="" width="65" height="63" role="presentation"&gt;Additional Resource&lt;/strong&gt;:&amp;nbsp;&lt;a href="https://www.apmresearchlab.org/10x-adult-literacy" target="_blank"&gt;AMP Research Lab, Reading The Numbers&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>9</revision>
+    <timemodified>1689801637</timemodified>
+  </page>
+</activity>

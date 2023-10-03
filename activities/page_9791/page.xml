@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2400" moduleid="9791" modulename="page" contextid="64937">
+  <page id="2400">
+    <name>Literacy and Learning Differences </name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Regardless of whether these
+issues have been officially diagnosed or not, many&amp;nbsp;of the adult education (AE) learners&amp;nbsp;in&amp;nbsp;your&amp;nbsp;classes are likely to
+experience learning or attention issues. It is important to take this into
+consideration as you design learning experiences for the adults in your class.
+Before designing any lesson or literacy task, remind yourself that:&amp;nbsp;&lt;/p&gt;
+
+&lt;div&gt;&lt;ul&gt;&lt;li&gt;Adult learners will be prone to
+self-doubt and uncertainty about their ability to succeed or ever improve
+literacy skills.&lt;/li&gt;&lt;li&gt;Between 30% and 70% of those who
+have a disability that affects reading will also have a disability that affects
+their ability to perform math processes &lt;a href="$@PAGEVIEWBYID*9829@$" target="_blank"&gt;(Patterson, 2020)&lt;/a&gt;.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Many will lack the confidence to
+alert you to their reading comprehension, and writing challenges, or to ask
+for accommodations that would help them succeed.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Adults with learning differences
+want to learn, but they will most likely have a history of uncompleted or
+negative learning experiences.&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;p&gt;&lt;a&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-protips.png" alt="" width="65" height="63" role="presentation" class="img-responsive atto_image_button_middle"&gt;Pro Tip:&lt;/strong&gt; &lt;/a&gt;&lt;a href="$@PAGEVIEWBYID*9826@$" target="_blank"&gt;Get
+to know your adult learners’ backgrounds.&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>5</revision>
+    <timemodified>1689801970</timemodified>
+  </page>
+</activity>

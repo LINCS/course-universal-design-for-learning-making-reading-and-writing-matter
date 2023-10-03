@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2432" moduleid="9823" modulename="page" contextid="64969">
+  <page id="2432">
+    <name>Wrap Up</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;In this section, we are going to ask you to stop and reflect on your initial thoughts. We are also going to provide you with some printable resources and presentation materials so you can share what you've learned with others and have an easy way to remember important concepts. Finally, this section includes materials, resources, and references so you can bring the concepts into your classroom and dig deeper into areas you find fascinating.&amp;nbsp;&lt;/p&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Review Your Initial Thoughts:&lt;/strong&gt;&amp;nbsp;A chance to check what you originally thought against new ideas and learning you picked up through the module&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Key Ideas:&lt;/strong&gt;&amp;nbsp;Important concepts that will help you use the content from the module, print&amp;nbsp;this&amp;nbsp;list and post in your learning environment&amp;nbsp;​​&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Pro Tips:&lt;/strong&gt;&amp;nbsp;A list you could keep handy as a quick reminder of the learning in this module&amp;nbsp;​&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Additional Resources:&lt;/strong&gt;&amp;nbsp;Materials you can use to dig deeper into concepts and a downloadable version of&amp;nbsp;this module you can share with others&amp;nbsp;​&lt;/li&gt;&lt;li&gt;&lt;strong&gt;References​&lt;/strong&gt;: This includes references from&amp;nbsp;outside resources used to inform the creation of the module&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>5</revision>
+    <timemodified>1690059693</timemodified>
+  </page>
+</activity>

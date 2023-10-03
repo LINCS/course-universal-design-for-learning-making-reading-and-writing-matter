@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2450" moduleid="9841" modulename="page" contextid="64987">
+  <page id="2450">
+    <name>Have learners listen to one another’s stories</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Writing and speaking to our
+experiences optimizes relevance, value, and authenticity. After drawing
+inspiration about storytelling from The Moth and practicing speaking skills by
+creating a&amp;nbsp;TED Talk, you can have learners utilize a speech-to-text (STT)
+tool to tell their own story. After capturing their story with STT, have
+learners share it with a peer. The peer can practice reading it or use a
+supportive technology like text-to-speech. The final step is to have learners
+write (by hand or type) their own story.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Here are some Writing
+Prompts to Guide Writing YOUR STORY:&lt;/p&gt;
+
+&lt;div&gt;&lt;ul&gt;&lt;li&gt;Autobiography:
+Introduce us to who you are. Share your hobbies, interests, family background,
+and anything else you want others to know about the real you.&lt;/li&gt;&lt;li&gt;Holiday:
+Share what you did on a recent holiday or vacation. Include photos or videos.&lt;/li&gt;&lt;li&gt;Best
+memory: What&amp;nbsp;is a memory you will never forget?&amp;nbsp;&lt;/li&gt;&lt;li&gt;Funniest
+moment: Tell us about&amp;nbsp;a time you couldn't stop laughing.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Hardest
+challenge you overcame: What made it so hard?&amp;nbsp;&lt;/li&gt;&lt;li&gt;Hero/Mentor:
+What is it about this person that makes them so special?&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p&gt;Go back to the&amp;nbsp;&lt;a href="$@COURSEVIEWBYID*293@$#section-5" target="_blank"&gt;Try It Yourself Section&lt;/a&gt;&amp;nbsp;for a list of all Try it Yourself Options.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>3</revision>
+    <timemodified>1690060806</timemodified>
+  </page>
+</activity>

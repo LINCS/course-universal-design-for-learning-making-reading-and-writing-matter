@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="247" moduleid="9845" modulename="certificate" contextid="64991">
+  <certificate id="247">
+    <name>Certificate of Completion: Making Reading &amp; Writing Matter</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;You will automatically receive a certificate of completion once you have complete a 5-question knowledge check. However, we encourage you to check your understanding by completing the additional assessment options and further solidify your understanding by sharing what you’ve learned with others through the online forum.&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <emailteachers>0</emailteachers>
+    <emailothers></emailothers>
+    <savecert>0</savecert>
+    <reportcert>0</reportcert>
+    <delivery>0</delivery>
+    <certificatetype>lincs</certificatetype>
+    <orientation>L</orientation>
+    <borderstyle>0</borderstyle>
+    <bordercolor>0</bordercolor>
+    <printwmark>0</printwmark>
+    <printdate>2</printdate>
+    <datefmt>1</datefmt>
+    <printnumber>0</printnumber>
+    <printgrade>0</printgrade>
+    <gradefmt>1</gradefmt>
+    <printoutcome>0</printoutcome>
+    <printhours>1 hour, 30 minutes</printhours>
+    <printteacher>0</printteacher>
+    <customtext></customtext>
+    <printsignature>dael-signature.png</printsignature>
+    <printseal>LINCS-Logo-Color-small.png</printseal>
+    <timecreated>1717721148</timecreated>
+    <timemodified>1726442521</timemodified>
+    <issues>
+    </issues>
+  </certificate>
+</activity>

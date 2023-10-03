@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2404" moduleid="9795" modulename="page" contextid="64941">
+  <page id="2404">
+    <name> Comparing and Contrasting</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;One in five U.S. adults (21
+percent) has difficulty completing the tasks that require the literacy skills
+to&amp;nbsp;compare and contrast information, paraphrase, or make
+low-level inferences. Educators can help learners develop these skills by
+having them create lists of the benefits and drawbacks of various activities.
+Consider having them make a plus and minus list of learning literacy skills, or
+even purchasing a new cellphone. Make sure to point out the connection these
+lists have to literacy skill development.&amp;nbsp;&lt;/p&gt;&lt;table&gt;
+&lt;caption&gt;&lt;/caption&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th scope="col"&gt;&lt;p&gt;Literacy Level&lt;/p&gt;&lt;/th&gt;
+&lt;th scope="col"&gt;&lt;p&gt;Rating&lt;/p&gt;&lt;/th&gt;
+&lt;th scope="col"&gt;&lt;p&gt;Millions of U.S. Adults&lt;/p&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p&gt;Could not participate (4.0%)&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;Low English Literacy&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;8.2 Million&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;Below Level 1 (4.1%)&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;Low English Literacy&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;8.4 Million&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;Level 1 (12.9%)&lt;/td&gt;
+&lt;td&gt;&amp;nbsp;Low English Literacy&lt;/td&gt;
+&lt;td&gt;&amp;nbsp;26.5 Million&lt;/td&gt;
+&lt;/tr&gt;&lt;tr&gt;
+&lt;td&gt;&lt;p&gt;Level 2 (31.6%)&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;Mid or High English Literacy&lt;/p&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;61.1 Million&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;Level 3 (34.6%)&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Mid or High English Literacy&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;71.4 Million&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp;Level 4/5 (12.9%)&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;Mid or High English Literacy&lt;/p&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&amp;nbsp;26.6 Million&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;Source:&amp;nbsp; &lt;a href="$@PAGEVIEWBYID*9829@$" target="_blank"&gt;Mamedova, S., &amp;amp; Pawlowski, E., National Center for Education Statistics, Adult Literacy in the United States (2019)&amp;nbsp;&lt;/a&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom" style="font-size: 1.7rem;"&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>6</revision>
+    <timemodified>1686797285</timemodified>
+  </page>
+</activity>

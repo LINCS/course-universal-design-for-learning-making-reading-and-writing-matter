@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2397" moduleid="9788" modulename="page" contextid="64934">
+  <page id="2397">
+    <name>Misconceptions About Low Literacy Levels</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;There are misconceptions and
+stereotypes about people with low literacy skills. It is important for
+educators to address these misconceptions &lt;a href="$@PAGEVIEWBYID*9829@$" target="_blank"&gt;(Mesler et al., 2021)&lt;/a&gt;. One way to do this is to share data
+with learners, other educators, and community members.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;For example, the largest
+percentage of the population with low literacy skills are &lt;strong&gt;White
+U.S.-born adults&lt;/strong&gt;, who represent &lt;strong&gt;one
+third&lt;/strong&gt; of the total people with low literacy skills.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Hispanic adults born outside the
+United States make up about a &lt;strong&gt;quarter&lt;/strong&gt; of
+such low-skilled adults in the United States (see&amp;nbsp;Figure
+3 in Additional Resource below).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-resources.png" alt="" width="65" height="63" role="presentation" class="img-responsive atto_image_button_middle"&gt;Additional Resource:&lt;/strong&gt; &lt;a href="https://nces.ed.gov/pubs2019/2019179/index.asp" target="_blank"&gt;National Center for
+Education Statistics, Adult Literacy in the United States&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;
+&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>3</revision>
+    <timemodified>1689801424</timemodified>
+  </page>
+</activity>

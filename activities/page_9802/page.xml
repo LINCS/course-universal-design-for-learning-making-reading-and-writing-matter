@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2411" moduleid="9802" modulename="page" contextid="64948">
+  <page id="2411">
+    <name>Incorporating Relevant Topics </name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Educators can make content
+relevant by providing tasks that allow for active participation and choice, and
+by&amp;nbsp;focusing on content that directly connects to learners' lives.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;For example, adult learners
+report being very interested in reading news stories and staying abreast of
+current happenings. Educators could allow readers to select, read, and share an
+article they are interested&amp;nbsp;in from sites that use language appropriate
+for the learners' reading&amp;nbsp;levels. Remember, no matter the learners'
+"reading level,"&amp;nbsp;the content matters, and educators need to make
+sure they are&amp;nbsp;providing meaningful and relevant information that adult
+learners care about.&amp;nbsp;When it comes to teaching
+literacy, content matters. Engage students with topics they care
+about,&amp;nbsp;while building the background knowledge and vocabulary they need to
+become active, engaged&amp;nbsp;readers.&lt;/p&gt;
+
+&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;u&gt;&lt;a href="https://www.nationalgeographic.com/" target="_blank"&gt;National Geographic&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;&lt;li&gt;&lt;u&gt;&lt;a href="https://newsela.com/" target="_blank"&gt;NewsELA&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>2</revision>
+    <timemodified>1690059015</timemodified>
+  </page>
+</activity>

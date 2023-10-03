@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2436" moduleid="9827" modulename="page" contextid="64973">
+  <page id="2436">
+    <name>Pro Tips: Making Reading &amp; Writing Matter (Bullet List)</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-protips.png" alt="" width="140" height="136" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;Use case studies in your instruction.&lt;/li&gt;&lt;li&gt;Get to know your AE learners' backgrounds.&lt;/li&gt;&lt;li&gt;Model learning something new.&lt;/li&gt;&lt;li&gt;Use technology applications as scaffolds&lt;/li&gt;&lt;li&gt;Use prompts or sentence-starters.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;br&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>2</revision>
+    <timemodified>1690055141</timemodified>
+  </page>
+</activity>

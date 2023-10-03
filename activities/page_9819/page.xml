@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2428" moduleid="9819" modulename="page" contextid="64965">
+  <page id="2428">
+    <name>Step 4: Revising</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Ask learners to share their story
+with each other, using the critique protocol below.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;The writer will read their story
+out loud.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;After they are done, the listener
+will provide the following feedback:&lt;/p&gt;
+
+&lt;div&gt;&lt;ul&gt;&lt;li&gt;I noticed...&amp;nbsp;&lt;/li&gt;&lt;li&gt;I'm curious about...&amp;nbsp;&lt;/li&gt;&lt;li&gt;The strongest part of this story
+was... because…&amp;nbsp;&lt;/li&gt;&lt;li&gt;I think this story could be even
+better if... (one idea only)&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;p&gt;Remind both the reader and the
+listener that revisions are about making the point and purpose of the written
+piece come to life. During this time, learners may recognize and pick up on
+grammatical and punctuation errors but remind them the focus is about the
+overall flow of the piece. Detailed editing will come later.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>1</revision>
+    <timemodified>1676678888</timemodified>
+  </page>
+</activity>

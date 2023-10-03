@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2419" moduleid="9810" modulename="page" contextid="64956">
+  <page id="2419">
+    <name>Key Idea: Teach writing strategies. </name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-keyideasforward.png" alt="" width="140" height="136" role="presentation" class="img-responsive atto_image_button_middle"&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Writing will improve when educators focus on providing&amp;nbsp;explicit instruction&amp;nbsp;in writing techniques (writing strategies) and sustained writing practice. Writing is a set of skills that can be supported and developed.&amp;nbsp;Developing&amp;nbsp;writing skills facilitates learning &lt;a href="$@PAGEVIEWBYID*9829@$" target="_blank"&gt;(Tanis, 2022)&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>2</revision>
+    <timemodified>1690052866</timemodified>
+  </page>
+</activity>

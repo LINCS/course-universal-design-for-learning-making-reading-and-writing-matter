@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2442" moduleid="9833" modulename="page" contextid="64979">
+  <page id="2442">
+    <name>Share these four charts with your learners </name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Show the following four charts with
+the learners in your&amp;nbsp;classroom. Explain
+that while this information is useful,
+it doesn't tell the whole story. For example, this data doesn't show the
+dedication or determination
+of the learners currently in the room. You had to overcome so much to get here.
+That is not reflected in this data.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/OCTAE-charts-1-2-3-4.png" alt="4 Pie charts: Participants by location of education, education level completed, ethnicity and age. Long description next." width="10022" height="6729" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt;&amp;nbsp;&amp;nbsp;&lt;span style="background-color: rgb(255, 255, 255); font-size: 1.7rem;"&gt;&lt;a href="https://nrs.ed.gov/rt/reports/aggregate/2019/all" target="_blank"&gt;https://nrs.ed.gov/rt/reports/aggregate/2019/all&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;After reviewing the charts,
+work with the learners
+to create
+some questions that could reflect the "whole" experience of the
+learners in the classroom. Then ask the students to take the survey and post
+the results around the room.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sample questions:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;ul&gt;&lt;li&gt;Do
+you have a job?&amp;nbsp;&lt;/li&gt;&lt;li&gt;Do
+you have people you take care of (parents, children, friends)?&amp;nbsp;&lt;/li&gt;&lt;li&gt;Have
+you ever completed a difficult task?&lt;/li&gt;&lt;li&gt;Have
+you ever learned something new?&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+
+
+
+
+&lt;br&gt;&lt;p&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;a href="$@PAGEVIEWBYID*9786@$" target="_blank"&gt;Long Description for Pie Graphs on Variability in AE Classrooms&lt;/a&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Go back to the&amp;nbsp;&lt;a href="$@COURSEVIEWBYID*293@$#section-5" target="_blank"&gt;Try It Yourself Section&lt;/a&gt;&amp;nbsp;for a list of all Try it Yourself Options.&lt;br&gt;&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>6</revision>
+    <timemodified>1692565475</timemodified>
+  </page>
+</activity>

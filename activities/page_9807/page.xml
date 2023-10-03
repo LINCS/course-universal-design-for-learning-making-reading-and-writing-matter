@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2416" moduleid="9807" modulename="page" contextid="64953">
+  <page id="2416">
+    <name>Literacy Tools Are Everywhere</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Supports for literacy and
+expression, such as speech-to-text and text-to-speech, are often built into the
+devices adult learners are already using every day, like smartphones and
+tablets. With practice, adult learners can find the settings that work best for
+them, such as choosing their favorite voice, the best rate of speech, and other
+options for creating a personalized experience just for them.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Learn more about text-to-speech
+and other built-in literacy supports by visiting the additional resources
+listed below:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-resources%20%281%29.png" alt="" width="65" height="63" role="presentation" class="img-responsive atto_image_button_middle"&gt;Additional Resource&lt;/strong&gt;:&amp;nbsp;&lt;a href="https://aem.cast.org/use/personalizing-reading" target="_blank"&gt;AEM Center at CAST:
+Personalizing the Reading Experience&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-resources%20%282%29.png" alt="" width="65" height="63" role="presentation" class="img-responsive atto_image_button_middle"&gt;Additional Resource:&lt;/strong&gt; &lt;a href="https://aem.cast.org/use/personalizing-writing" target="_blank"&gt;AEM Center at CAST:
+Personalizing the Writing Experience&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-tryityourself%20%281%29.png" alt="" width="65" height="63" role="presentation" class="img-responsive atto_image_button_middle"&gt;Try it Yourself: &lt;/strong&gt;&lt;/a&gt;&lt;a href="$@PAGEVIEWBYID*9840@$" target="_blank"&gt;Free
+technology applications for literacy skills&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>4</revision>
+    <timemodified>1690059078</timemodified>
+  </page>
+</activity>

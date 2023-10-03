@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2406" moduleid="9797" modulename="page" contextid="64943">
+  <page id="2406">
+    <name>Digital Literacy and Universal Design for Learning</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Reflect on the following quote and identify how integrating digital media makes learning more universal and equitable for
+all.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;"Development of digital and
+media literacy provides students with tools and contexts to better understand
+and personalize their connections to culture, society, and the democratic
+process, which often leads to greater effort and persistence in learning.&amp;nbsp;By
+expanding our view of literacy to include all forms of media, options for
+educators to represent what they are teaching and how students show what they
+have learned are broadened enormously. Considering and integrating the UDL
+curriculum design framework with the fields of digital and media literacy will
+ensure that learning environments and materials are accessible and engaging for
+all students" &lt;a href="$@PAGEVIEWBYID*9829@$&amp;amp;forceview=1" target="_blank"&gt;(Dalton, 2017)&lt;/a&gt;.&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>5</revision>
+    <timemodified>1689803732</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2427" moduleid="9818" modulename="page" contextid="64964">
+  <page id="2427">
+    <name>Step 3: Drafting</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Drafting is a process, and not
+the final written piece. Teach learners that it’s common practice to form
+multiple drafts of a story. Highlight how learners can use this to their
+advantage by bringing in sample texts or drafts to show learners.&amp;nbsp;Consider
+sharing multiple drafts of your own work and how each evolved.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Break down the writing into
+component parts:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;ul&gt;&lt;li&gt;Introduction&lt;/li&gt;&lt;li&gt;Body&lt;/li&gt;&lt;li&gt;Conclusion&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+
+
+
+
+&lt;p&gt;&lt;strong&gt;Focus on one section or part at a
+time.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>2</revision>
+    <timemodified>1679421570</timemodified>
+  </page>
+</activity>

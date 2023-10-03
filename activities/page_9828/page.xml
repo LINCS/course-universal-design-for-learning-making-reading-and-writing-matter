@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2437" moduleid="9828" modulename="page" contextid="64974">
+  <page id="2437">
+    <name>Additional Resources </name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;div&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-resources%20%281%29.png" alt="" width="140" height="136" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-scheme-color="@333333,," data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;These are extension resources that you&amp;nbsp;can use to expand your knowledge. You do not need access&amp;nbsp;these additional&amp;nbsp;&lt;/span&gt;&lt;span data-scheme-color="@333333,," data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;resources, but they are available to extend your&amp;nbsp;learning.&amp;nbsp;&lt;/span&gt;&lt;br&gt;
+    &lt;ul&gt;
+        &lt;li&gt;&lt;a href="http://iris.peabody.vanderbilt.edu/_archive/iris-and-adult-learning-theory/" target="_blank"&gt;How
+People Learn Framework and the STAR Legacy Model&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;u style="font-size: 1.7rem;"&gt;&lt;a href="https://www.chinesemutualaid.org/about-cmaa" target="_blank"&gt;Chinese Mutual
+Aid&amp;nbsp;Association&lt;/a&gt;&lt;/u&gt;&lt;span style="font-size: 1.7rem;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;u style="font-size: 1.7rem;"&gt;&lt;a href="https://millercenter.org/the-presidency/presidential-speeches/january-11-1962-state-union-address" target="_blank"&gt;1962
+State of the Union Address&lt;/a&gt;&lt;/u&gt;&lt;span style="font-size: 1.7rem;"&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;u style="font-size: 1.7rem;"&gt;&lt;a href="https://www.propublica.org/article/literacy-adult-education-united-states" target="_blank"&gt;A
+Fifth of American
+Adults Struggle
+to Read. Why Are We Failing to Teach&amp;nbsp;Them?&lt;/a&gt;&lt;/u&gt;&lt;u style="font-size: 1.7rem;"&gt;&lt;/u&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;u style="font-size: 1.7rem;"&gt;&lt;a href="https://nces.ed.gov/pubs2019/2019179/index.asp" target="_blank"&gt;National Center for
+Education Statistics, Adult Literacy in the United&amp;nbsp;States&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;u style="font-size: 1.7rem;"&gt;&lt;a href="https://www.thinkimpact.com/literacy-statistics/" target="_blank"&gt;ThinkImpact, Literacy
+Statistics&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+        &lt;li&gt;​​&lt;u style="font-size: 1.7rem;"&gt;&lt;a href="https://www.apmresearchlab.org/10x-adult-literacy" target="_blank"&gt;AMP Research Lab,
+Reading The&amp;nbsp;Numbers&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;u style="font-size: 1.7rem;"&gt;&lt;a href="https://files.eric.ed.gov/fulltext/ED604029.pdf" target="_blank"&gt;Mindset and Reading
+Performance&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;u style="font-size: 1.7rem;"&gt;&lt;a href="https://www.cael.org/news-and-resources/overcoming-barriers-for-adult-learners" target="_blank"&gt;CAEL,
+Overcoming Barriers for Adult Learners&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;u style="font-size: 1.7rem;"&gt;&lt;a href="https://lvp.digitalpromiseglobal.org/content-area/adult-learner/factors/digital-literacy-adult-learner/summary" target="_blank"&gt;Digital
+Literacy, Digital Promise&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;u style="font-size: 1.7rem;"&gt;&lt;a href="https://www.nationalgeographic.com/" target="_blank"&gt;National Geographic&lt;/a&gt;&lt;/u&gt;&lt;span style="font-size: 1.7rem;"&gt;​&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;u style="font-size: 1.7rem;"&gt;&lt;a href="https://newsela.com/" target="_blank"&gt;NewsELA&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span style="background-color: rgb(255, 255, 255); font-size: 1.7rem;"&gt;&lt;a href="https://aem.cast.org/use/personalizing-reading" target="_blank"&gt;AEM Center at CAST:
+Personalizing the Reading Experience&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;u style="font-size: 1.7rem;"&gt;&lt;a href="https://aem.cast.org/use/personalizing-writing" target="_blank"&gt;AEM Center at CAST:
+Personalizing the Writing Experience&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span style="background-color: rgb(255, 255, 255); font-size: 1.7rem;"&gt;&lt;a href="https://vp.commons.gc.cuny.edu/2018/11/12/bringing-together-universal-design-for-learning-udl-and-writing-across-the-curriculum-wac/" target="_blank"&gt;Bringing
+together Universal Design for Learning (UDL) and Writing Across the Curriculum (WAC)&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;u style="font-size: 1.7rem;"&gt;&lt;a href="https://iris.peabody.vanderbilt.edu/module/sec-rdng/cresource/q3/p10/" target="_blank"&gt;IRIS
+Center, Monitoring Comprehension&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span style="background-color: rgb(255, 255, 255); font-size: 1.7rem;"&gt;&lt;a href="https://udlguidelines.cast.org/engagement/effort-persistence/mastery-oriented-feedback" target="_blank"&gt;UDL
+checkpoint 8.4&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span style="background-color: rgb(255, 255, 255); font-size: 1.7rem;"&gt;&lt;a href="https://lincs.ed.gov/sites/default/files/WiseFeedbackCard_Tagged.pdf" target="_blank"&gt;Wise
+Feedback Card&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span style="background-color: rgb(255, 255, 255); font-size: 1.7rem;"&gt;&lt;a href="http://doc.renlearn.com/KMNet/R004250923GJCF33.pdf" target="_blank"&gt;Effective Writing
+Instruction for All Students&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span style="background-color: rgb(255, 255, 255); font-size: 1.7rem;"&gt;&lt;a href="https://writing.umn.edu/sws/quickhelp/process/editing.html" target="_blank"&gt;Editing and
+Proofreading Strategies&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span style="background-color: rgb(255, 255, 255); font-size: 1.7rem;"&gt;&lt;a href="https://www.carnegie.org/media/filer_public/9d/e2/9de20604-a055-42da-bc00-77da949b29d7/ccny_report_2010_writing.pdf" target="_blank"&gt;Writing
+to Read&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span style="background-color: rgb(255, 255, 255); font-size: 1.7rem;"&gt;&lt;a href="https://owl.purdue.edu/" target="_blank"&gt;Purdue Owl Online Writing Lab
+&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span style="background-color: rgb(255, 255, 255); font-size: 1.7rem;"&gt;&lt;a href="https://iris.peabody.vanderbilt.edu/module/sec-rdng/cresource/q3/p13/" target="_blank"&gt;IRIS
+Center, Generating Questions&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;u style="font-size: 1.7rem;"&gt;&lt;a href="https://doi.org/10.1016/j.learninstruc.2021.101541" target="_blank"&gt;Drawing to improve
+metacomprehension accuracy - ScienceDirect&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;u style="font-size: 1.7rem;"&gt;&lt;a href="https://www.edutopia.org/article/the-10-most-significant-education-studies-of-2022?utm_campaign=later-linkinbio-edutopia&amp;amp;utm_content=later-1796366&amp;amp;utm_medium=social&amp;amp;utm_source=linkin.bio" target="_blank"&gt;The
+10 Most Significant Education Studies of 2022 | Edutopia&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div&gt;
+    &lt;div&gt;&lt;a href="https://aem.cast.org/use/personalizing-reading"&gt;&lt;/a&gt;&lt;/div&gt;
+
+    &lt;p&gt;&lt;/p&gt;
+
+    &lt;div&gt;&lt;br&gt;&lt;/div&gt;
+
+    &lt;p&gt;&lt;/p&gt;
+
+    &lt;div&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>6</revision>
+    <timemodified>1690315935</timemodified>
+  </page>
+</activity>

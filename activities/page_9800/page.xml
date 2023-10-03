@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2409" moduleid="9800" modulename="page" contextid="64946">
+  <page id="2409">
+    <name>Designing Literacy Content </name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Educators can apply the
+principles of Universal Design for Learning (UDL) by ensuring literacy
+content&amp;nbsp; is:&lt;/p&gt;
+
+&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Meaningful&amp;nbsp;&lt;/strong&gt;—
+Content&amp;nbsp;can be made meaningful by connecting it to previous knowledge. Is
+this something the adult learner already knows about, or&amp;nbsp;how
+can I&amp;nbsp;connect it to their lives? Is
+this content about someone who lived in their neighborhood,
+for instance.&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Relevant&lt;/strong&gt;&amp;nbsp;—&amp;nbsp;Content
+becomes relevant when it is useful and applicable. Does this content help the
+adult learner&amp;nbsp;get a job or connect them with others. Can they use the
+information?&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Flexible&amp;nbsp;&lt;/strong&gt;—
+Making content flexible means providing choice. For example, the educator might
+ask the learner to share a news story, but could you give
+them a choice about what kind of story or where the story comes
+from?&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>1</revision>
+    <timemodified>1676676494</timemodified>
+  </page>
+</activity>

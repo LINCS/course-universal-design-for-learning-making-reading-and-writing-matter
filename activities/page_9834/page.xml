@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2443" moduleid="9834" modulename="page" contextid="64980">
+  <page id="2443">
+    <name>Share state funding data with your adult learners</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p&gt;Share the following table from
+the Additional Resource: &lt;a href="https://www.propublica.org/article/literacy-adult-education-united-states" target="_blank"&gt;A
+Fifth of American Adults Struggle to Read. Why Are We Failing to Teach Them?&lt;/a&gt;
+with the adult learners
+you work with. Ask them the following questions to facilitate a discussion
+about the factors that impact adult literacy in the United
+States.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Selected examples of State Funding
+Statistics on Adult Education Per Eligible Adult:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;ul&gt;&lt;li&gt;Connecticut - $149&lt;/li&gt;&lt;li&gt;Oregon - $124&lt;/li&gt;&lt;li&gt;Vermont - $101&lt;/li&gt;&lt;li&gt;Maryland - $18&lt;/li&gt;&lt;li&gt;New Jersey - $17&lt;/li&gt;&lt;li&gt;South Dakota - $8&lt;/li&gt;&lt;li&gt;Nebraska - $2&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Go back to the&amp;nbsp;&lt;a href="$@COURSEVIEWBYID*293@$#section-5" target="_blank"&gt;Try It Yourself Section&lt;/a&gt;&amp;nbsp;for a list of all Try it Yourself Options.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>6</revision>
+    <timemodified>1690060373</timemodified>
+  </page>
+</activity>

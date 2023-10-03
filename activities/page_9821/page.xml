@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2430" moduleid="9821" modulename="page" contextid="64967">
+  <page id="2430">
+    <name>Key Idea: Writing improves reading. </name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Research shows that the more
+students learn&amp;nbsp;to write about&amp;nbsp;what they&amp;nbsp;have read, the
+more&amp;nbsp;reading comprehension improves.&amp;nbsp;As Dr.&amp;nbsp;Steve
+Graham&amp;nbsp;notes,&lt;/p&gt;
+
+&lt;p&gt;“When we teach specific writing
+skills, their corresponding skills in reading improve.
+For&amp;nbsp;example,&amp;nbsp;teaching spelling results in improved word reading
+skills. Teaching sentence construction skills&amp;nbsp;improves reading
+fluency.&amp;nbsp;When we write about a text, it forces us to actively think about
+what we read,&amp;nbsp;improving our understanding and comprehension. When we write
+about things that we're learning in the&amp;nbsp;classroom, we come to
+a&amp;nbsp;better conceptual understanding of the material.&amp;nbsp;So writing is
+really a powerful&amp;nbsp;tool for increasing&amp;nbsp;learning in&amp;nbsp;the
+classroom.&amp;nbsp;This makes it essential for success in school.”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>2</revision>
+    <timemodified>1690226970</timemodified>
+  </page>
+</activity>

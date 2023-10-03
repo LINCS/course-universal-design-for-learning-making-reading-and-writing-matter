@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2413" moduleid="9804" modulename="page" contextid="64950">
+  <page id="2413">
+    <name>Key Idea: Help students find their own voice through literacy. </name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-keyideasforward.png" alt="" width="140" height="136" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;/p&gt;&lt;p&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Empower your learners to tell their story. While we know that literacy is an essential component for&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;connecting to the world and information around us, we forget that personal stories can&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;become&amp;nbsp;powerful form of advocacy and effective ways to teach literacy skills. Through personal&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;stories and the stories of others,&amp;nbsp;learners see how they can advocate for themselves, share their&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;ideas about injustices, and learn about themselves. Their voice is as important as the materials they&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;consume. Reminding learners that their voice matters is empowering and will help many adult&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;learners persist in learning literacy skills &lt;a href="$@PAGEVIEWBYID*9829@$" target="_blank"&gt;(&lt;/a&gt;&lt;/span&gt;&lt;a href="$@PAGEVIEWBYID*9829@$" target="_blank"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Cameron-&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Standerford&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&amp;nbsp;et al., 2016)&lt;/span&gt;&lt;/a&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>2</revision>
+    <timemodified>1690052378</timemodified>
+  </page>
+</activity>

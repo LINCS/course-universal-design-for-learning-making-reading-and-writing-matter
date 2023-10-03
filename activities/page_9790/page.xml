@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2399" moduleid="9790" modulename="page" contextid="64936">
+  <page id="2399">
+    <name>Percent of Low English Literacy Adults (list format)</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;&lt;span style="font-size: 1.7rem;"&gt;Offering people multiple ways to
+perceive&amp;nbsp;new information helps to improve
+learning. Here, you see data displayed in a list format.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;Which format works better for you? Why?&amp;nbsp;&lt;/li&gt;
+        &lt;li&gt;Consider sharing both options with your learners and asking them the same questions.&amp;nbsp;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div&gt;
+    &lt;p&gt;&lt;strong&gt;Percent of Low English literacy adults&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;div&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;White: 35%&lt;/strong&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Born in the U.S. 33%&lt;/li&gt;
+                &lt;li&gt;Born outside the U.S. 2%&lt;/li&gt;
+              &lt;/ul&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;span style="font-size: 1.7rem;"&gt;&lt;strong&gt;Black: 23%&lt;/strong&gt;&lt;/span&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Born in the U.S. 20%&lt;/li&gt;
+                &lt;li&gt;Born outside the U.S. 3%&lt;/li&gt;
+              &lt;/ul&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;span style="font-size: 1.7rem;"&gt;&lt;strong&gt;Hispanic: 34%&lt;/strong&gt;&lt;/span&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Born in the U.S. 10%&lt;/li&gt;
+                &lt;li&gt;Born outside the U.S. 24%&lt;/li&gt;
+              &lt;/ul&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;span style="font-size: 1.7rem;"&gt;&lt;strong&gt;Other: 8%&lt;/strong&gt;&lt;/span&gt;
+            &lt;/li&gt;&lt;ul&gt;
+                &lt;li&gt;Born in the U.S. 3%&lt;/li&gt;
+                &lt;li&gt;Born outside the U.S. 4%&lt;/li&gt;
+              &lt;/ul&gt;
+        &lt;/ul&gt;&lt;p&gt;(Details may not sum to totals due to rounding.)&lt;/p&gt;&lt;p&gt;&lt;span&gt;Source&lt;/span&gt;:&amp;nbsp;&amp;nbsp;&lt;a href="$@PAGEVIEWBYID*9829@$" target="_blank"&gt;Mamedova, S., &amp;amp; Pawlowski, E., National Center for Education Statistics, Adult Literacy in the United States (2019)&amp;nbsp;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-resources%20%282%29.png" alt="" width="65" height="63" role="presentation" class="img-responsive atto_image_button_middle"&gt;Additional Resource&lt;/strong&gt;:
+    &lt;a href="https://www.apmresearchlab.org/10x-adult-literacy" target="_blank"&gt;AMP Research Lab,
+Reading The Numbers&lt;/a&gt;&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>5</revision>
+    <timemodified>1686797848</timemodified>
+  </page>
+</activity>

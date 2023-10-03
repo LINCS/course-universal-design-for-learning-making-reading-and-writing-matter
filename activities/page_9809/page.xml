@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2418" moduleid="9809" modulename="page" contextid="64955">
+  <page id="2418">
+    <name>Practice by Writing Captions</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;h3&gt;&lt;img src="@@PLUGINFILE@@/WritingCaptions.png" alt="" width="396" height="271" role="presentation" class="img-responsive atto_image_button_right"&gt;&lt;/h3&gt;&lt;p&gt;Share your voice through caption writing.
+Notice how language changes the way the reader interprets the images. Encourage
+learners to be funny, serious, etc.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;How does a caption affect how the
+audience feels about an&amp;nbsp;image?&lt;/p&gt;
+
+&lt;div&gt;&lt;ul&gt;&lt;li&gt;A young man walks through
+chest-deep flood waters after looting a grocery store in New Orleans on
+Tuesday.&lt;/li&gt;&lt;li&gt;Two residents wade through
+chest-deep water after finding bread and soda from a local grocery store in New
+Orleans, Louisiana.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;a&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-tryityourself%20%281%29.png?time=1676677758208" alt="" width="65" height="63" role="presentation" class="img-responsive atto_image_button_middle"&gt;Try it Yourself:&lt;/strong&gt;&lt;/a&gt; &lt;a href="$@PAGEVIEWBYID*9842@$" target="_blank"&gt;Have
+learners watch 30 seconds of a movie on silent and make up the dialogue&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>6</revision>
+    <timemodified>1690059117</timemodified>
+  </page>
+</activity>

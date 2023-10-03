@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2402" moduleid="9793" modulename="page" contextid="64939">
+  <page id="2402">
+    <name>Growth Mindset Helps Learners Build Literacy Skills</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;Whether learners have significant learning differences that they know about or not, the mindset they bring into the classroom about &lt;strong&gt;reading&lt;/strong&gt; will impact their ability to persist &lt;a href="$@PAGEVIEWBYID*9829@$" target="_blank"&gt;(Candy, 2019)&lt;/a&gt;. Start by teaching them the difference between a growth mindset and a fixed
+    mindset.&amp;nbsp;&lt;/p&gt;
+
+&lt;div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;Mindset&lt;/strong&gt; refers to a relation between students’ motivation and their learning goals, and their beliefs about whether intelligence and academic skills are &lt;strong&gt;fixed&lt;/strong&gt; (inherent) or can be &lt;strong&gt;grown&lt;/strong&gt; (malleable or incremental).&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div&gt;
+    &lt;p&gt;Learners with a&amp;nbsp;&lt;strong&gt;fixed mindset&lt;/strong&gt; believe their academic ability is already set. They believe that if they can't learn something&amp;nbsp;easily, it's because they aren't smart &lt;a href="$@PAGEVIEWBYID*9829@$" target="_blank"&gt;(Dweck, 2015)&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+
+    &lt;p&gt;Learners with a &lt;strong&gt;growth mindset&lt;/strong&gt; believe that intelligence ability can be changed and developed through practice. They embrace feedback because it can help them improve. To individuals with a growth mindset, success is a result of grit, perseverance,
+        effort, and practice &lt;a href="$@PAGEVIEWBYID*9829@$" target="_blank"&gt;(Sahagun et al., 2021)&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-resources%20%281%29.png" alt="" width="65" height="63" role="presentation" class="img-responsive atto_image_button_middle"&gt;Additional Resource:&amp;nbsp;&lt;/strong&gt;
+        &lt;u style="font-size: 1.7rem;"&gt;&lt;a href="https://files.eric.ed.gov/fulltext/ED604029.pdf" target="_blank"&gt;Mindset and Reading
+Performance&lt;/a&gt;&lt;/u&gt;
+    &lt;/p&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong style="background-color: rgb(255, 255, 255); color: rgb(73, 80, 87); font-size: 1.7rem;"&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-tryityourself.png" alt="" width="65" height="63" role="presentation" class="img-responsive atto_image_button_middle"&gt;Try it Yourself&lt;/strong&gt;&lt;span style="background-color: rgb(255, 255, 255); font-size: 1.7rem;"&gt;: &lt;/span&gt;&lt;span style="background-color: rgb(255, 255, 255); font-size: 1.7rem;"&gt;&lt;a href="$@PAGEVIEWBYID*9835@$" target="_blank"&gt;Share
+this quote with your learners&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-protips.png" alt="" width="65" height="63" role="presentation" class="img-responsive atto_image_button_middle"&gt;Pro-tip:&lt;/strong&gt; &lt;a href="$@PAGEVIEWBYID*9826@$" target="_blank"&gt;Model
+learning something new.&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>8</revision>
+    <timemodified>1689802581</timemodified>
+  </page>
+</activity>
